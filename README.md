@@ -1,5 +1,6 @@
-__Toastify__
-Toastify adds some missing functionallity to the Spotify client(Windows only). <br>
+# __Toastify__
+
+__Toastify__ adds some missing functionallity to the Spotify client(Windows only). <br>
 It shows a popup, toast style, dialog on track change and it allows you to use global hot keys for Play/Pause, Next, Previous etc. Toastify is developed using C# and WPF.
 
 
